@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **CP😁**
 
-- 👨‍💻 All of my projects are available at [sreelakshmig009@gmail.com](sreelakshmig009@gmail.com)
-
 - 📝 I regularly blabber on [https://www.quora.com/profile/Sreelakshmi-G-28](https://www.quora.com/profile/Sreelakshmi-G-28)
 
 - ⚡ Fun fact **I'm vegan**
