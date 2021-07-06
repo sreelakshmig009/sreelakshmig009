@@ -9,7 +9,7 @@
 
 - 📝 I regularly blabber on [https://www.quora.com/profile/Sreelakshmi-G-28](https://www.quora.com/profile/Sreelakshmi-G-28)
 
-- ⚡ Fun fact: **I'm vegan**
+- ⚡ Fun fact: **Je parle bien français et un peu espagnole aussi😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
