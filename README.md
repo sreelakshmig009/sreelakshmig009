@@ -7,14 +7,12 @@
 
 - 🤝 I’m looking for help with **CP😁**
 
-- 📝 I regularly blabber on [https://www.quora.com/profile/Sreelakshmi-G-28](https://www.quora.com/profile/Sreelakshmi-G-28)
-
 - ⚡ Fun fact: **Je parle bien français et un peu espagnole aussi😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sreelakshmig009?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sreelakshmig009?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.quora.com/https://www.quora.com/profile/Sreelakshmi-G-28" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174865.png" alt="https://www.quora.com/profile/Sreelakshmi-G-28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
