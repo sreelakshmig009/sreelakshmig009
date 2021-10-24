@@ -11,9 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/cynophilicfvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/cynophilicfvr" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cynophilicbibiliophile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cynophilicbibiliophile/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100070485900066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="https://www.facebook.com/profile.php?id=100070485900066" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Sreelakshmi-G-28" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174865.png" alt="https://www.quora.com/profile/Sreelakshmi-G-28" height="30" width="40" /></a>
-<a href="https://devpost.com/sreelakshmig009?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://flamingoapp-org.github.io/flamingo/images/features1a.png" alt="https://devpost.com/sreelakshmig009?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
