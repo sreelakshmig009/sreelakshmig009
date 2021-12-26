@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects(MERN/LAMP/Django-Flask)**
 
-- 🤝 I’m looking for help with **CP😁**
+- 🤝 I’m looking for help with **motivation,consistency and procrastination**
 
 - ⚡ Fun fact: **Je parle bien français et un peu espagnole aussi😜**
 
