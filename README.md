@@ -16,6 +16,7 @@
 <a href="https://www.facebook.com/profile.php?id=100070485900066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="https://www.facebook.com/profile.php?id=100070485900066" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Sreelakshmi-G-28" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174865.png" alt="https://www.quora.com/profile/Sreelakshmi-G-28" height="30" width="40" /></a>
+<a href="https://leetcode.com/sreelakshmig/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="https://www.leetcode.com/sreelakshmig/" height="30" width="40" /></a>
 
 </p>
 
