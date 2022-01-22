@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/profile.php?id=100070485900066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="https://www.facebook.com/profile.php?id=100070485900066" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Sreelakshmi-G-28" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174865.png" alt="https://www.quora.com/profile/Sreelakshmi-G-28" height="30" width="40" /></a>
-<a href="https://leetcode.com/sreelakshmig/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="https://www.leetcode.com/sreelakshmig/" height="30" width="40" /></a>
+
 
 </p>
 
@@ -25,7 +25,7 @@
 <a href="https://leetcode.com/sreelakshmig/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="https://www.leetcode.com/sreelakshmig/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sreelakshmig009/practice/" target="blank"><img align="center" src="https://geeksgod.com/wp-content/uploads/2021/06/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user/sreelakshmig009/practice/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sreelakshmig009" target="blank"><img align="center" src="https://jobsnet.in/wp-content/uploads/2020/09/HackerRank_logo.png" alt="https://www.hackerrank.com/sreelakshmig009" height="30" width="40" /></a>  
-
+<a href="https://app.codesignal.com/profile/sreelakshmig009" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/06/28190511/xPDfUHI1_400x400.jpg" alt="https://app.codesignal.com/profile/sreelakshmig009" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
