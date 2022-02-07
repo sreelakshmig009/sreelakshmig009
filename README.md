@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my backend skills**
 
-- 👯 I’m looking to collaborate on **open source projects(MERN/LAMP/Django-Flask)**
+- 👯 I’m looking to collaborate on **open source projects(MERN and Networking based)**
 
 - 🤝 I’m looking for help with **motivation,consistency and procrastination**
 
