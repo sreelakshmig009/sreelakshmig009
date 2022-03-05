@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/cynophilicbibiliophile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cynophilicbibiliophile/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100070485900066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="https://www.facebook.com/profile.php?id=100070485900066" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreelakshmi-g-4a030118b/" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Sreelakshmi-G-28" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174865.png" alt="https://www.quora.com/profile/Sreelakshmi-G-28" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Sreelakshmi-G-28" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174865.png" alt="https://www.quora.com/profile/Sreelakshmi-G-28" height="30" width="40" /></a>
 
 
 </p>
@@ -27,7 +27,7 @@
 <h3><a href="https://skyline.github.com/sreelakshmig009/2021">Check this out</a></h3>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmig009&show_icons=true&locale=en" alt="sreelakshmig009" /></p>
-<h1 align="center"><a href = "https://drive.google.com/file/d/1w1XwscGpJkVGhTnwYKK0Lt8yGlU-F5O4/view?usp=sharing">Click to view my Resume</a></h1>
+<h1 align="center"><a href = "https://drive.google.com/file/d/1rqOxNhUFzOQSaSy9E0s1WD3IwzjCxwJm/view?usp=sharing">Click to view my Resume</a></h1>
 
 
 
