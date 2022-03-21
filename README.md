@@ -27,7 +27,7 @@
 <h3><a href="https://skyline.github.com/sreelakshmig009/2021">Check this out</a></h3>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmig009&show_icons=true&locale=en" alt="sreelakshmig009" /></p>
-<h1 align="center"><a href = "https://drive.google.com/file/d/1rqOxNhUFzOQSaSy9E0s1WD3IwzjCxwJm/view?usp=sharing">Click to view my Resume</a></h1>
+<h1 align="center"><a href = "https://sreelakshmig009.github.io/Resume-G-Sreelakshmi/Resume-G%20Sreelakshmi.pdf">Click to view my Resume</a></h1>
 
 
 
