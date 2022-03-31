@@ -28,6 +28,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#366](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/366) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. 🎉 Merged PR [#398](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/398) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. 🎉 Merged PR [#412](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/412) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. 🎉 Merged PR [#2](https://github.com/sreelakshmig009/mini-project-da-thambi/pull/2) in [sreelakshmig009/mini-project-da-thambi](https://github.com/sreelakshmig009/mini-project-da-thambi)
+5. 🎉 Merged PR [#1](https://github.com/sreelakshmig009/mini-project-da-thambi/pull/1) in [sreelakshmig009/mini-project-da-thambi](https://github.com/sreelakshmig009/mini-project-da-thambi)
 <!--END_SECTION:activity-->
 
 
