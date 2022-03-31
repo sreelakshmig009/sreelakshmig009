@@ -28,11 +28,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#366](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/366) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. 🎉 Merged PR [#398](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/398) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. 🎉 Merged PR [#412](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/412) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. 🎉 Merged PR [#2](https://github.com/sreelakshmig009/mini-project-da-thambi/pull/2) in [sreelakshmig009/mini-project-da-thambi](https://github.com/sreelakshmig009/mini-project-da-thambi)
-5. 🎉 Merged PR [#1](https://github.com/sreelakshmig009/mini-project-da-thambi/pull/1) in [sreelakshmig009/mini-project-da-thambi](https://github.com/sreelakshmig009/mini-project-da-thambi)
+1. 🗣 Commented on [#361](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/361) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. 🎉 Merged PR [#413](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/pull/413) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. ❗️ Closed issue [#406](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/406) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. 🗣 Commented on [#417](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/417) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. ❗️ Closed issue [#366](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/366) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--END_SECTION:activity-->
 
 
