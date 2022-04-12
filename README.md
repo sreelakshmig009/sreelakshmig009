@@ -28,11 +28,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#468](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/468) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. 🗣 Commented on [#485](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/485) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 2. 🗣 Commented on [#468](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/468) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. 🎉 Merged PR [#6](https://github.com/sreelakshmig009/Gallery-CRUD-App/pull/6) in [sreelakshmig009/Gallery-CRUD-App](https://github.com/sreelakshmig009/Gallery-CRUD-App)
-4. 🎉 Merged PR [#5](https://github.com/sreelakshmig009/Gallery-CRUD-App/pull/5) in [sreelakshmig009/Gallery-CRUD-App](https://github.com/sreelakshmig009/Gallery-CRUD-App)
-5. 🎉 Merged PR [#3](https://github.com/sreelakshmig009/Gallery-CRUD-App/pull/3) in [sreelakshmig009/Gallery-CRUD-App](https://github.com/sreelakshmig009/Gallery-CRUD-App)
+3. 🗣 Commented on [#468](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/468) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. 🎉 Merged PR [#6](https://github.com/sreelakshmig009/Gallery-CRUD-App/pull/6) in [sreelakshmig009/Gallery-CRUD-App](https://github.com/sreelakshmig009/Gallery-CRUD-App)
+5. 🎉 Merged PR [#5](https://github.com/sreelakshmig009/Gallery-CRUD-App/pull/5) in [sreelakshmig009/Gallery-CRUD-App](https://github.com/sreelakshmig009/Gallery-CRUD-App)
 <!--END_SECTION:activity-->
 
 
