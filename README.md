@@ -28,10 +28,10 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#229](https://github.com/insidesherpa/JPMC-tech-task-1-PY3/pull/229) in [insidesherpa/JPMC-tech-task-1-PY3](https://github.com/insidesherpa/JPMC-tech-task-1-PY3)
-2. 💪 Opened PR [#229](https://github.com/insidesherpa/JPMC-tech-task-1-PY3/pull/229) in [insidesherpa/JPMC-tech-task-1-PY3](https://github.com/insidesherpa/JPMC-tech-task-1-PY3)
-3. 🗣 Commented on [#485](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/485) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. 🗣 Commented on [#468](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/468) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. 🎉 Merged PR [#7](https://github.com/sreelakshmig009/Gallery-CRUD-App/pull/7) in [sreelakshmig009/Gallery-CRUD-App](https://github.com/sreelakshmig009/Gallery-CRUD-App)
+2. ❌ Closed PR [#229](https://github.com/insidesherpa/JPMC-tech-task-1-PY3/pull/229) in [insidesherpa/JPMC-tech-task-1-PY3](https://github.com/insidesherpa/JPMC-tech-task-1-PY3)
+3. 💪 Opened PR [#229](https://github.com/insidesherpa/JPMC-tech-task-1-PY3/pull/229) in [insidesherpa/JPMC-tech-task-1-PY3](https://github.com/insidesherpa/JPMC-tech-task-1-PY3)
+4. 🗣 Commented on [#485](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/485) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 5. 🗣 Commented on [#468](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/468) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--END_SECTION:activity-->
 
