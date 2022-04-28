@@ -28,11 +28,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#571](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/571) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-2. 🗣 Commented on [#571](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/571) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-3. 🗣 Commented on [#567](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/567) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-4. 🗣 Commented on [#550](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/550) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
-5. 💪 Opened PR [#8](https://github.com/hack2skill/goc-april/pull/8) in [hack2skill/goc-april](https://github.com/hack2skill/goc-april)
+1. ❗️ Closed issue [#578](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/578) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+2. 🗣 Commented on [#578](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/578) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+3. ❗️ Closed issue [#577](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/577) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+4. 🗣 Commented on [#577](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/577) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+5. ❗️ Closed issue [#571](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/571) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 <!--END_SECTION:activity-->
 
 
