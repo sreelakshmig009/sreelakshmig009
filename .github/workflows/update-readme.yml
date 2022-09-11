@@ -1,7 +1,7 @@
 name: Update README
+
 on:
   schedule:
-    # Runs every hour
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
