@@ -38,7 +38,7 @@
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreelakshmig009&show_icons=true&locale=en" alt="sreelakshmig009" /></p>
-<h1 align="center"><a href = "https://drive.google.com/file/d/1JfIJlfHRhdJTu-LmBh7-gms2SdA9CIrs/view?usp=sharing">View my Resume👈</a></h1>
+<h1 align="center"><a href = "">View my Resume👈</a></h1>
 
 
 
