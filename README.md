@@ -28,8 +28,8 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/IBM-EPBL/IBM-Project-44647-1660725800/pull/1) in [IBM-EPBL/IBM-Project-44647-1660725800](https://github.com/IBM-EPBL/IBM-Project-44647-1660725800)
-2. 🗣 Commented on [#655](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/655) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
+1. 🎉 Merged PR [#16](https://github.com/sreelakshmig009/Gallery-CRUD-App/pull/16) in [sreelakshmig009/Gallery-CRUD-App](https://github.com/sreelakshmig009/Gallery-CRUD-App)
+2. 🎉 Merged PR [#1](https://github.com/IBM-EPBL/IBM-Project-44647-1660725800/pull/1) in [IBM-EPBL/IBM-Project-44647-1660725800](https://github.com/IBM-EPBL/IBM-Project-44647-1660725800)
 3. ❗️ Closed issue [#662](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/662) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 4. 🗣 Commented on [#662](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/662) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
 5. 🗣 Commented on [#659](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/issues/659) in [ZeroOctave/ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
