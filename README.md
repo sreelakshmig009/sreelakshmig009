@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sreelakshmi(my parents call me Megha)</h1>
+<h1 align="center">Hi 👋, I'm Sreelakshmi</h1>
 <h3 align="center">An aspiring full stack developer/site reliabilty engineer</h3>
 
 - 🔭 I’m currently working on **improving my backend skills**
