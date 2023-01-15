@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact: **Je parle bien français et un peu espagnole aussi😜**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e5rogxyfctmtrr2eresp7hlage&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cynophilicfvr" target="blank"><img align="center" src="https://icons8.com/icon/13963/twitter" alt="https://twitter.com/cynophilicfvr" height="30" width="40" /></a>
